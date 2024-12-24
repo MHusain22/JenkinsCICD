@@ -2,5 +2,5 @@
 
 sudo apt install nodejs <br>
 sudo apt intall npm<br>
-npm install<br>
+sudo npm install<br>
 node app.js<br>
